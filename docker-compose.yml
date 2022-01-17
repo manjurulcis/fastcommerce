@@ -1,0 +1,35 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    command: gunicorn web.wsgi:application --bind 0.0.0.0:8000
+    volumes:
+      - static_volume:/home/app/static
+      - media_volume:/home/app/media
+    expose:
+      - 8000
+    env_file:
+      - ./.env
+    depends_on:
+      - db
+  db:
+    image: postgres:12.0-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    env_file:
+      - ./.env.db
+  nginx:
+    build: ./nginx
+    volumes:
+      - static_volume:/home/app/static
+      - media_volume:/home/app/media
+    ports:
+      - 80:80
+    depends_on:
+      - web
+
+volumes:
+  postgres_data:
+  static_volume:
+  media_volume:

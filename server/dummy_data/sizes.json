@@ -1,0 +1,128 @@
+[
+  {
+    "size": "S",
+    "waist_min_size": 16,
+    "waist_max_size": 19,
+    "hip_min_size": 16,
+    "hip_max_size": 18,
+    "height_min_size": 93,
+    "height_max_size": 96,
+    "available_count": 0
+  },
+  {
+    "size": "L",
+    "waist_min_size": 19,
+    "waist_max_size": 21,
+    "hip_min_size": 18,
+    "hip_max_size": 21,
+    "height_min_size": 100,
+    "available_count": 0
+  },
+  {
+    "size": "M",
+    "waist_min_size": 21,
+    "waist_max_size": 24,
+    "hip_min_size": 19,
+    "hip_max_size": 26,
+    "height_min_size": 88,
+    "available_count": 10
+  },
+  {
+    "size": "XL",
+    "waist_min_size": 24,
+    "waist_max_size": 28,
+    "hip_min_size": 28,
+    "height_min_size": 100,
+    "available_count": 0
+  },
+  {
+    "size": "XXL",
+    "waist_min_size": 38,
+    "waist_max_size": 41,
+    "hip_min_size": 38,
+    "hip_max_size": 41,
+    "height_min_size": 100,
+    "available_count": 12
+  },
+  {
+    "size": "XXXL",
+    "waist_min_size": 40,
+    "waist_max_size": 45,
+    "hip_min_size": 40,
+    "hip_max_size": 43,
+    "height_min_size": 88,
+    "height_max_size": 94,
+    "available_count": 7
+  },
+  {
+    "size": "4XL",
+    "waist_min_size": 43,
+    "waist_max_size": 49,
+    "hip_min_size": 40,
+    "hip_max_size": 49,
+    "height_min_size": 100,
+    "available_count": 18
+  },
+  {
+    "size": "L",
+    "waist_min_size": 25,
+    "waist_max_size": 28,
+    "hip_min_size": 28,
+    "height_min_size": 100,
+    "height_max_size": 105,
+    "available_count": 13
+  },
+  {
+    "size": "FREE SIZE",
+    "waist_min_size": 43,
+    "waist_max_size": 58,
+    "hip_min_size": 40,
+    "hip_max_size": 55,
+    "height_min_size": 100,
+    "height_max_size": 105,
+    "available_count": 20
+  },
+  {
+    "size": "FREE SIZE",
+    "waist_min_size": 30,
+    "waist_max_size": 46,
+    "hip_min_size": 46,
+    "height_min_size": 70,
+    "available_count": 24
+  },
+  {
+    "size": "5XL",
+    "waist_min_size": 50,
+    "waist_max_size": 60,
+    "hip_min_size": 50,
+    "hip_max_size": 60,
+    "height_min_size": 100,
+    "available_count": 23
+  },
+  {
+    "size": "3XL",
+    "waist_min_size": 45,
+    "waist_max_size": 60,
+    "hip_min_size": 45,
+    "hip_max_size": 58,
+    "height_min_size": 105,
+    "available_count": 18
+  },
+  {
+    "size": "6XL",
+    "waist_min_size": 52,
+    "waist_max_size": 60,
+    "hip_min_size": 50,
+    "hip_max_size": 58,
+    "height_min_size": 96,
+    "available_count": 5
+  },
+  {
+    "size": "XL",
+    "waist_min_size": 34,
+    "waist_max_size": 38,
+    "hip_min_size": 38,
+    "height_min_size": 91,
+    "available_count": 14
+  }
+]

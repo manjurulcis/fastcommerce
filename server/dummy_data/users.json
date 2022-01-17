@@ -1,0 +1,27 @@
+[
+  {
+    "phone_number": "09171234567",
+    "password": "password",
+    "email": "admin@gmail.com",
+    "is_admin": true
+  },
+  {
+    "phone_number": "09177654321",
+    "password": "password",
+    "first_name": "john",
+    "last_name": "deo",
+    "email": "john@gmail.com",
+    "national_code": "0081202471"
+  },
+  {
+    "phone_number": "09175559999",
+    "password": "password",
+    "first_name": "alex",
+    "last_name": "washington",
+    "email": "alex@yahoo.com"
+  },
+  {
+    "phone_number": "09172589875",
+    "password": "password"
+  }
+]

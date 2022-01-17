@@ -1,0 +1,29 @@
+[
+  {
+    "user": 1,
+    "reciver_full_name": "john deo",
+    "reciver_phone_number": "09171234567",
+    "state": "Virginia",
+    "city": "Richmond",
+    "postal_address": "2852  Corpening Drive",
+    "postal_code": "1885484759"
+  },
+  {
+    "user": 1,
+    "reciver_full_name": "john deo",
+    "reciver_phone_number": "09171234567",
+    "state": "Florida",
+    "city": "Daytona Beach",
+    "postal_address": "3663  Spirit Drive",
+    "postal_code": "3211432114"
+  },
+  {
+    "user": 2,
+    "reciver_full_name": "Andrew S Bell",
+    "reciver_phone_number": "09175684158",
+    "state": "Mississippi",
+    "city": "Hattiesburg",
+    "postal_address": "4669  Walnut Street",
+    "postal_code": "3940139401"
+  }
+]

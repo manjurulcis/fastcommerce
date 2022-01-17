@@ -1,0 +1,79 @@
+[
+  {
+    "title": "tall pretty pant",
+    "photo_main": "./dummy_data/img/4224243423.jpg",
+    "photo_1": "./dummy_data/img/verve-leda-pant-tall-620.jpg",
+    "photo_2": "./dummy_data/img/roamans-plus-size-tall-ponte-pants.jpg",
+    "description": "Suspender Skirts Basic High Waist Versatile Flared Skater Skirt featuring with Adjustable straps design, Zipper fastening, Flouncing hem, Strechy material for\ncomfortable fit , one size down is recommended.\nYOINS Women Suspender Skirts Basic High Waist Versatile Flared Skater Skirt Midi dress.\nYou can wear this women suspender skirts in spring, summer, autumn and winter. These mini cute skater skirts is great for casual, work, school, vacation, beach.\nAnyway, you can wear it from work to daily life We like you to pair it with tops and heels.",
+    "price": 25.99,
+    "sizes": [1, 2],
+    "sale_count": 23
+  },
+  {
+    "title": "Suspender Skirts Basic High Waist",
+    "photo_main": "./dummy_data/img/JFISDJ34IO432.jpg",
+    "photo_1": "./dummy_data/img/715sLBgFvBL._AC_UX466_.jpg",
+    "photo_2": "./dummy_data/img/813fO-Ig3OL._AC_UX466_.jpg",
+    "photo_3": "./dummy_data/img/7152ufGHOvL._AC_UX466_.jpg",
+    "photo_4": "./dummy_data/img/71ow-5nDmNL._AC_UX466_.jpg",
+    "description": "Please check your size with our SIZE CHART before you buy it . Size may be 2cm/1 inch inaccuracy due to hand measure. Color may be little different due to monitor.\nHand wash is recommended. Suitable for casual wear with a white t-shirt.",
+    "price": 28.88,
+    "sizes": [9],
+    "sale_count": 34
+  },
+  {
+    "title": "Suspender Skirts Basic High Waist",
+    "photo_main": "./dummy_data/img/JLKFALK32.jpg",
+    "photo_1": "./dummy_data/img/619UEhD+4KL._AC_SX466._SX._UX._SY._UY_.jpg",
+    "description": "Please check your size with our SIZE CHART before you buy it . Size may be 2cm/1 inch inaccuracy due to hand measure. Color may be little different due to monitor.\nHand wash is recommended. Suitable for casual wear with a white t-shirt.",
+    "price": 28.88,
+    "sizes": [9],
+    "colors": [2],
+    "sale_count": 34
+  },
+  {
+    "title": "Suspender Skirts Basic High Waist",
+    "photo_main": "./dummy_data/img/61Oj3JAS-wL._AC_SX466._SX._UX._SY._UY_.jpg",
+    "description": "Please check your size with our SIZE CHART before you buy it . Size may be 2cm/1 inch inaccuracy due to hand measure. Color may be little different due to monitor.\nHand wash is recommended. Suitable for casual wear with a white t-shirt.",
+    "price": 28.88,
+    "sizes": [9],
+    "colors": [2, 3],
+    "sale_count": 34
+  },
+  {
+    "title": "Raglan Jersey Henley T Shirt Baseball Shirts",
+    "photo_main": "./dummy_data/img/71Y8dOm2qxL._AC_UX466_.jpg",
+    "photo_1": "./dummy_data/img/81s9-mtOYrL._AC_UX466_.jpg",
+    "description": "Made in slim fit US size, if you prefer loose fit, we suggest to order one BIGGER size than you usually wear. Please refer to the size chart image on the left.\nHenley Tshirt curling round necked with 3 front buttons, showing casual and natural style. And the double needle stitching on neck, sleeve, and bottom hem.\nits durability and longevity, available to wear for years.",
+    "price": 88.88,
+    "discount_price": 68.99,
+    "sizes": [11, 12, 13],
+    "sale_count": 12
+  },
+  {
+    "title": "Stretch Knit Jersey Denim Five Pocket Jean",
+    "photo_main": "./dummy_data/img/71aTYwch-8L._AC_UY606_.jpg",
+    "description": "Tall, dark, and handsome define these dark wash jeans. The definition of luxury.\ndenim, all without the unnecessary markup. Wear these comfortable jean to both dinner and drinks with friends.",
+    "price": 188.88,
+    "sizes": [3, 4, 5],
+    "sale_count": 12
+  },
+  {
+    "title": "Stretch Knit Jersey Denim Five Pocket Jean",
+    "photo_main": "./dummy_data/img/71+DZQpPzuL._AC_SY606._SX._UX._SY._UY_.jpg",
+    "description": "Tall, dark, and handsome define these dark wash jeans. The definition of luxury.\ndenim, all without the unnecessary markup. Wear these comfortable jean to both dinner and drinks with friends.",
+    "price": 188.88,
+    "discount_price": 158.99,
+    "sizes": [3, 4, 5],
+    "colors": [6],
+    "sale_count": 12
+  },
+  {
+    "title": "Just Love Womens Utility Solid Scrub Pants",
+    "photo_main": "./dummy_data/img/71gbdnsSu9L._AC_UY741_.jpg",
+    "description": "These medical scrubs for women feel soft on the skin, are comfortably roomy, and are designed with a functional drawstring and elastic band for a great fit at the hips.",
+    "price": 15.32,
+    "sizes": [6, 7, 8],
+    "sale_count": 2
+  }
+]
