@@ -1,5 +1,5 @@
-# fastcommerce
-A small ecommerce app based on python django and react
+# Fastcommerce
+A small ecommerce app based on python django and react. Includes docker based development and deployment.
 
 # Project Architecture
 In order to have clear sepration for backend and frontend development project is divided into relative name folder. Traditional way to setup development environment  instructions are explained below. Moreover there is docker based instructions as well for faster development set up. 
