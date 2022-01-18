@@ -2,7 +2,7 @@
 A small ecommerce app based on python django and react
 
 # Project Architecture
-In order to have clear sepration for backend and frontend development project is divided into relative name folder. Traditional way to development environment setup instructions are explained below. Moreover there is docker based instructions as well for faster development set up. 
+In order to have clear sepration for backend and frontend development project is divided into relative name folder. Traditional way to setup development environment  instructions are explained below. Moreover there is docker based instructions as well for faster development set up. 
  - client (container react frontend application)
  - server (Backend APi based on Django Python)
  - nginx (proxy server configurations)
@@ -31,6 +31,7 @@ Run below command in the ´server´ directory to create database, apply migratio
 
 ```
 python add_dummy_data.py
+
 ```
 
 ### Run the server
@@ -38,6 +39,7 @@ To run the frontend server
 ```
 cd frontend
 yarn run dev
+
 ````
 
 To run backend server
@@ -45,8 +47,8 @@ To run backend server
 ```
 python manage.py runserver
 python manage.py livereload # hot reload
-
 ```
+
 ### Test Frontend app
 Open http://localhost:8000/ and Test the product view, search and add to cart functionality. To do you need to login and you can use this demo user 
 ````
