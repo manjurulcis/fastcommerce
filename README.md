@@ -52,7 +52,7 @@ python manage.py livereload # hot reload
 Open http://localhost:8000/ and Test the product view, search and add to cart functionality. To do you need to login and you can use this demo user 
 
 ```
-Email: john@gmail.com
+Email: 09177654321
 Password: password
 ```
 
@@ -63,7 +63,7 @@ or you can register yourself
 Admin user has been created in [users.json](dummy_data/users.json) <br />
 You can access the admin pannel from http://localhost:8000/admin/ <br /> or you can login in frontend app http://localhost:8000/login
 phone number: 09171234567 <br /> or <br /> 
-Email: admin@gmail.com <br /> 
+Phone: 35845183578 <br /> 
 password: password
 
 ### Docker Based Development and Deployment
